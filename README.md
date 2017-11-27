@@ -19,7 +19,8 @@ conda create -n taller-dl python=3.5
 ``` 
 
 Finalmente, activamos el ambiente e instalamos libreras necesarias.
-Mac or Linux: 
+
+Mac o Linux: 
 
 ```source activate taller-dl```
 
@@ -31,7 +32,7 @@ Windows:
 conda install numpy pandas jupyter notebook matplotlib
 ```
 
-Instalación de librerías principales (scipy, TensorFlow, and TFlearn):
+Instalación de librerías principales (scipy, TensorFlow, y TFlearn):
 
 ```
 conda install scipy h5py
